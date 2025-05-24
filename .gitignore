@@ -1,7 +1,6 @@
 /.idea/
 /.mim/
 /.base/
-/.data/
+/data/coco/
 /newPrepareModel/
-data/
 Report.md
